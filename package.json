@@ -1,0 +1,19 @@
+{
+  "name": "autobuyer_fifa23",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "type": "module",
+  "author": "barovskiyboris@gmail.com",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "dotenv": "^16.0.3",
+    "puppeteer": "^19.5.2",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  }
+}
